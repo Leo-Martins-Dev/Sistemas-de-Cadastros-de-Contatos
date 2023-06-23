@@ -1,7 +1,7 @@
 # Sistema de cadastro de contatos
 Este projeto é um sistema de cadastro de contatos utilizando ASP.NET Core, SQL Server e o padrão arquitetural MVC. O objetivo é permitir que o usuário possa cadastrar, visualizar, atualizar e excluir contatos da agenda de forma fácil e eficiente.
 
-O sistema é implementado como um CRUD (Creat5e, Read, Update, Delete), que são as operações básicas de qualquer aplicação que gerencia dados. Ele permite que o usuário possa adicionar novos contatos, editar as informações existentes de um contato e excluir um contato existente.
+O sistema é implementado como um CRUD (Create, Read, Update, Delete), que são as operações básicas de qualquer aplicação que gerencia dados. Ele permite que o usuário possa adicionar novos contatos, editar as informações existentes de um contato e excluir um contato existente.
 
 Utlizei o Entity Framework Core para interagir com o banco de dados SQL Server. A interface de usuário é criada com o Razor Pages e o Bootstrap.
 
